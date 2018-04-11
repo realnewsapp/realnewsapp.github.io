@@ -9,7 +9,9 @@ If you choose to use our Service, then you agree to the collection and use of in
 
 **Information Collection and Use**
 
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, limited to your name and email address. The information that we collect will be used to contact you with news articles provided by our Service.
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, limited to your name and email address. The information that we collect will be used to contact you with news articles provided by our Service. We do not retain your name and email, and only request this information from Amazon (through Login with Amazon) when sending an email.
+
+If you [unlink](/unlink.html) your Login with Amazon account from our skill, we will no longer have access to your personally identifiable information.
 
 **Security**
 
