@@ -1,4 +1,4 @@
-# Real News
+# Home
 
 ### About
 
