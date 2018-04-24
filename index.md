@@ -1,6 +1,7 @@
-# Home
+<link rel="shortcut icon" type="image/png" href="/img/favicon.png">
 
-### About
+Home
+--------------
 
 In an effort to mitigate confirmation bias, we ([Amit Shankar](https://amitshankar.me) and [Issac Kim](https://itechnoguy.com)) built Real News. Real News is an Alexa skill that gathers headlines across various top sources and presents them through an intuitive dialog.
 
