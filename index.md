@@ -10,17 +10,21 @@ This is an open-source project, powered by [NewsAPI.org](https://newsapi.org).
 
 ### Alexa
 
+[Click here to view the skill on Amazon.com](https://www.amazon.com/dp/B07CKSZR3N/?ref-suffix=ss_copy)
+
 In order to invoke the Alexa skill, you can say
 > Alexa, launch real news
 
+Once in the skill,
+
 To get the headlines, say
-> Alexa, ask real news to give me the headlines
+> Give me the headlines
 
 To get the headlines from a source, say
-> Alexa, ask real news to give me the headlines from Bleacher Report
+> Give me the headlines from Bleacher Report
 
 To get a list of sources, say
-> Alexa, ask real news to give me the list of sources
+> Give me the list of sources
 
 You can also navigate forward and backward through headlines by saying
 > Alexa, skip
@@ -29,5 +33,16 @@ or
 
 > Alexa, go back
 
+#### To invoke the skill with an intent
+
+You can say
+> Alexa, ask Real News to give me the headlines
+
+or
+
+> Alexa, ask Real News to give me the headlines from Bleacher Report
+
+and so on to invoke the skill with an intent
+
 ### Contact Us
-[Email](mailto:realnewsapp@protonmail.com)
+[Email](mailto:realnewsapp@gmail.com)
