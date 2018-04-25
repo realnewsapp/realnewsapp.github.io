@@ -57,19 +57,20 @@ Coming soon...
       method="POST">
 
   <div class="form-group">
-    <label for="name">Name</label>
+    <label for="name">Name:</label>
     <input type="text" class="form-control" id="name" placeholder="Name">
   </div>
 
   <div class="form-group">
-    <label for="email_address">Email address</label>
+    <label for="email_address">Email address:</label>
     <input type="email" class="form-control" id="email_address" name="_replyto" placeholder="Email">
   </div>
 
   <div class="form-group">
-    <label for="name">Message</label>
-    <input type="textarea" class="form-control" id="message" placeholder="Message">
+  	<label for="message">Message:</label>
+  	<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message"></textarea>
   </div>
+
 
   <br />
   
