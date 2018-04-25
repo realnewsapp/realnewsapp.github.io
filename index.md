@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+
 Home
 --------------
 
@@ -55,6 +57,24 @@ Coming soon...
     <input type="email" name="_replyto">
     <input type="textarea" name="message">
     <input type="submit" value="Send">
+</form>
+
+<form action="https://formspree.io/realnewsapp@gmail.com"
+      method="POST">
+
+  <div class="form-group">
+    <label for="name">Name</label>
+    <input type="text" class="form-control" id="name" placeholder="Name">
+  </div>
+
+  <div class="form-group">
+    <label for="email_address">Email address</label>
+    <input type="email" class="form-control" id="email_address" placeholder="Email">
+  </div>
+
+  <br />
+  
+  <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 
 [Email](mailto:realnewsapp@gmail.com)
