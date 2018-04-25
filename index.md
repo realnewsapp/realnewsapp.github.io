@@ -12,7 +12,7 @@ This is an open-source project, powered by [NewsAPI.org](https://newsapi.org).
 
 ### Alexa
 
-[Click here to view the skill on Amazon.com](https://www.amazon.com/dp/B07CKSZR3N/?ref-suffix=ss_copy)
+<a href="https://www.amazon.com/dp/B07CKSZR3N/?ref-suffix=ss_copy" target="_blank">Click here to view the skill on Amazon.com</a>
 
 In order to invoke the Alexa skill, you can say
 > Alexa, launch real news
