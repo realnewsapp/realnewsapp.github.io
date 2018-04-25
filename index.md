@@ -76,7 +76,3 @@ Coming soon...
   
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
-
-<br />
-
-[Email](mailto:realnewsapp@gmail.com)
