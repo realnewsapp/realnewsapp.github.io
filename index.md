@@ -1,7 +1,7 @@
 Home
 --------------
 
-In an effort to mitigate confirmation bias, we ([Amit Shankar](https://amitshankar.me) and [Issac Kim](https://itechnoguy.com)) built Real News. Real News is an Alexa skill that gathers headlines across various top sources and presents them through an intuitive dialog.
+In an effort to mitigate confirmation bias, we ([Amit Shankar](https://amitshankar.me) and [Issac Kim](https://itechnoguy.com)) built Real News. Real News is an app that gathers headlines across various top sources and presents them through an intuitive dialog.
 
 If you ask to hear about an article in greater detail, Real News can optionally send you a link to the article in an email digest once you exit the skill.
 
@@ -42,7 +42,19 @@ or
 
 > Alexa, ask Real News to give me the headlines from Bleacher Report
 
-and so on to invoke the skill with an intent
+and so on
+
+### Google Assistant
+
+Coming soon...
 
 ### Contact Us
+<form action="https://formspree.io/realnewsapp@gmail.com"
+      method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="textarea" name="message">
+    <input type="submit" value="Send">
+</form>
+
 [Email](mailto:realnewsapp@gmail.com)
