@@ -8,7 +8,8 @@ In an effort to mitigate confirmation bias, we ([Amit Shankar](https://amitshank
 If you ask to hear about an article in greater detail, Real News can optionally send you a link to the article in an email digest once you exit the skill.
 
 This is an open-source project, powered by [NewsAPI.org](https://newsapi.org). 
-<br />
+
+
 
 ### Alexa
 
@@ -45,12 +46,14 @@ or
 > Alexa, ask Real News to give me the headlines from Bleacher Report
 
 and so on
-<br />
+
+
 
 ### Google Assistant
 
 Coming soon...
-<br />
+
+
 
 ### Contact Us
 
@@ -72,8 +75,6 @@ Coming soon...
   	<textarea class="form-control" rows="5" id="message" name="message" placeholder="Message"></textarea>
   </div>
 
-
-  <br />
   
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
