@@ -50,14 +50,8 @@ and so on
 
 Coming soon...
 
+
 ### Contact Us
-<form action="https://formspree.io/realnewsapp@gmail.com"
-      method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <input type="textarea" name="message">
-    <input type="submit" value="Send">
-</form>
 
 <form action="https://formspree.io/realnewsapp@gmail.com"
       method="POST">
@@ -69,12 +63,19 @@ Coming soon...
 
   <div class="form-group">
     <label for="email_address">Email address</label>
-    <input type="email" class="form-control" id="email_address" placeholder="Email">
+    <input type="email" class="form-control" id="email_address" name="_replyto" placeholder="Email">
+  </div>
+
+  <div class="form-group">
+    <label for="name">Message</label>
+    <input type="textarea" class="form-control" id="message" placeholder="Message">
   </div>
 
   <br />
   
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
+
+<br />
 
 [Email](mailto:realnewsapp@gmail.com)
