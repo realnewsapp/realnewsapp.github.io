@@ -3,7 +3,7 @@
 Home
 --------------
 
-In an effort to mitigate confirmation bias, we ([Amit Shankar](https://amitshankar.me) and [Issac Kim](https://itechnoguy.com)) built Real News. Real News is an app that gathers headlines across various top sources and presents them through an intuitive dialog.
+In an effort to mitigate confirmation bias, we (<a href="https://amitshankar.me" target="_blank">Amit Shankar</a> and <a href="https://itechnoguy.com" target="_blank">Issac Kim</a> built Real News. Real News is an app that gathers headlines across various top sources and presents them through an intuitive dialog.
 
 If you ask to hear about an article in greater detail, Real News can optionally send you a link to the article in an email digest once you exit the skill.
 
